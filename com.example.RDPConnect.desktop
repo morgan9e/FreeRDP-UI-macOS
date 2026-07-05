@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=RDPConnect
+Comment=Simple GUI for launching sdl-freerdp sessions
+Exec=rdpconnect
+Icon=rdpconnect
+Terminal=false
+Categories=Network;RemoteAccess;GTK;
+Keywords=rdp;remote;desktop;freerdp;
+StartupNotify=true
