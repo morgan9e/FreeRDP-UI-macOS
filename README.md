@@ -1,3 +1,3 @@
 # RDPConnect
 
-## Simple Linux (GTK) and macOS (Swift) client frontend for FreeRDP.
+## Simple Linux (GTK) and macOS (Swift) frontend for FreeRDP client.
